@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_chime.mk
+    $(LOCAL_DIR)/lineage_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_chime-user \
-    cipher_chime-userdebug \
-    chiper_chime-eng
+    lineage_chime-user \
+    lineage_chime-userdebug \
+    lineage_chime-eng
